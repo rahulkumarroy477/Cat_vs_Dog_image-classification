@@ -7,5 +7,5 @@
 # accuracy graph after optimization
 ![accuracy](accuracy_aft_opt.png)
 
-# loss graph between train and validation before optimization
+# loss graph between train and validation after optimization
 ![loss](loss_aft_opt.png)
